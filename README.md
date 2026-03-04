@@ -8,7 +8,7 @@ This repository contains my data analytics projects focused on solving real-worl
 ## Skills
 
 • SQL  
-• Python (Pandas, NumPy, Matpliolib, Seaborn, Plotly)  
+• Python (Pandas, NumPy, Matpliotlib, Seaborn, Plotly)  
 • Excel  
 • Tableau
 • Power BI  
